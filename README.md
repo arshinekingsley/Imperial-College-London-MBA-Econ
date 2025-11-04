@@ -1,5 +1,8 @@
 ## README 
 
+## ChatGPT Revenue & TPM Model
+This repository contains code for a ChatGPT Revenue & TPM Model.
+
 This model was developed in Python for the Economic Naturalist Assignment as part of Group-A-September-2025-Start's  Managerial Economics coursework at Imperial College London.
 
 This simulation models multi-tier user dynamics, conversion, churn, and pricing elasticity for ChatGPT (2022–2035). It integrates a stochastic Monte Carlo framework (5,000 runs) with network effects and cost evolution. 
