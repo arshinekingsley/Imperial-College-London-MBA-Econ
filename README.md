@@ -12,5 +12,6 @@ Output metrics include token throughput (TPM) distributions, annual revenue and 
 - matplotlib
 
 ## Run
-bash
+>bash
+
 python openai2.py
